@@ -1,0 +1,12 @@
+spring:
+  mail:
+    username: XXXX@126.com
+    password: XXXXX
+    host: smtp.126.com
+
+#    qq邮箱需要多设置如下
+#    properties:
+#              mail:
+#                smtp:
+#                  ssl:
+#                    enable: true
